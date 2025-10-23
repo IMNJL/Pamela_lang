@@ -4,3 +4,4 @@ ltl f2 { (tr_v) -> ( (tr_v) U (o) ) }
 ltl f3 { [] (o -> (X(qr) || X(m) || X(c) || X(tr_input))) }
 ltl f4 { <> (qr && X(tr_input)) }
 ltl f5 { (d) U (v) }
+java.io.IOException: Cannot run program "bin\spin.exe" (in directory "C:\Users\pro\jspin\jspin-examples"): CreateProcess error=2, The system cannot find the file specifieddone!
